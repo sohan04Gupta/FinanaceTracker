@@ -1,4 +1,5 @@
-﻿# FinanceTracke
- Author = Sohan Gupta
+﻿# FinanceTracker
+ 
+
 
 
